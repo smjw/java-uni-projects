@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=class\ ToyBox
+comment0.text=\nWrite\ a\ description\ of\ class\ ToyBox\ here.\n\n@author\ (your\ name)\ \n@version\ (a\ version\ number\ or\ a\ date)\n\n
+comment1.params=doll
+comment1.target=void\ addToy(Pinochio)
+comment1.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n@param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n@return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n\n
+comment2.params=capacity
+comment2.target=ToyBox(int)
+comment2.text=\nConstructor\ for\ objects\ of\ class\ ToyBox\n\n
+comment3.target=howMany
+comment4.target=box
+comment5.params=
+comment5.target=double\ averageNoseLength()
+numComments=6

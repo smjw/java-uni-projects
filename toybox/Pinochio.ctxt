@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=class\ Pinochio
+comment0.text=\nWrite\ a\ description\ of\ class\ Pinochio\ here.\n\n@author\ (your\ name)\ \n@version\ (a\ version\ number\ or\ a\ date)\n\n
+comment1.params=age
+comment1.target=Pinochio(int)
+comment1.text=\nConstructor\ for\ objects\ of\ class\ Pinochio\n\n
+comment2.params=
+comment2.target=int\ getAge()
+comment3.params=
+comment3.target=int\ getNoseLength()
+comment4.target=age
+comment5.params=
+comment5.target=void\ birthday()
+comment5.text=\nAn\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n@param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n@return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n\n
+comment6.target=noseLength
+numComments=7
